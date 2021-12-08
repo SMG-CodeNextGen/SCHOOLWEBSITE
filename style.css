@@ -24,10 +24,16 @@
     color: white;
   }
 
-  #welcome {
+  #home {
       font-family: forte;
   }
 
   #whatnew {
       font-family: fantasy;
   }
+
+  #info {
+      font-size: 30px;
+      font-family:sans-serif;
+  }
+  
